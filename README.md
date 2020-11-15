@@ -13,6 +13,8 @@ In particular, I have chosen to analyze one of my favorite series available on W
 
 Overall, the comments show that Episode 1 of My Giant Nerd Boyfriend is the beginning of a series that WEBTOON readers will find to be very relatable and put them in a good mood.
 
+(The code can be viewed in the first file in this repository.)
+
 ## The Data
 
 The data was scraped using the Python program available in this repository, titled `scrape_tall_boyfriend.py` (which should have really been named `scrape_giant_boyfriend.py` if I had been paying attention). There are about 15 comments per page, and less than 100 pages. In short, the scraper does the following:
